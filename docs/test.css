@@ -20,6 +20,10 @@ body {
   margin: 10px;
 }
 
+em {
+  font-style: normal;
+}
+
 .lc-2 {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -44,8 +48,14 @@ body {
   padding: 10px;
 }
 
-.test-webkit-sassui-justify-list-between {
-  border: 1px solid red;
+.tc {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  padding: 10px 0;
+  background: #eee;
 }
 
 .test-webkit-sassui-justify-list-between .item {
