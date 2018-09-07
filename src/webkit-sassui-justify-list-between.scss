@@ -1,0 +1,12 @@
+/*webkit-sassui-justify-list-between Start*/
+$webkit-sassui-justify-list-between-options: () !default;
+
+.webkit-sassui-justify-list-between {
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  > .item {
+  }
+}
+/*webkit-sassui-justify-list-between End*/

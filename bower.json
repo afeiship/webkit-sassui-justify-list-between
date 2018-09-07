@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-justify-list-between",
+  "description": "List use justify between only for 2 column list",
+  "main": [
+    "dist/webkit-sassui-justify-list-between.css",
+    "dist/webkit-sassui-justify-list-between.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "justify-list-between"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-sassui-justify-list-between",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
