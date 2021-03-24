@@ -1,0 +1,16 @@
+@import "../src/index.scss";
+
+.test-wsui-card {
+  border: 1px solid red;
+}
+
+body {
+  background: #eee;
+}
+
+.wsui-card {
+  width: 30%;
+  min-height: 120px;
+  min-width: 320px;
+  margin: 20px auto;
+}
